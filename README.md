@@ -33,6 +33,6 @@ Model machine learning dibuat untuk memprediksi dan menentukan klasifikasi nasab
 - Menggunakan Algoritma Random Forest Classifier
 - Pemodelan fokus terhadap Metric Recall untuk membuat Nilai False Negative tidak terlalu besar
 - Score Recall sudah memiliki nilai yang cukup baik 
-- Dengan melakukan Feature Engineering dapat membantu memperbaiki Score Recall selama pemodelan
+- Dengan melakukan Feature Selection Berdasarkan Feature Impostance dapat membantu memperbaiki Score Recall selama pemodelan
 - Setelah dilakukan Hyperparameters Tuning, selisih antara Recall Train dan Recall Test mengalami penurunan meskipun mengakibatkan Score Test menjadi lebih rendah dari yang sebelumnya
 - Disarankan untuk mengumpulkan ulang data - data pada Dataset sehingga Label menjadi Balance dan dapat membantu proses Pemodelan
