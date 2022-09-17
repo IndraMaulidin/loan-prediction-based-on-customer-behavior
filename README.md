@@ -38,10 +38,11 @@ Bank memberikan pinjaman kepada nasabahnya, dan telah terdapat 252000 nasabah ya
 ### Modeling
 - Menggunakan Algoritma Random Forest Classifier
 - Pemodelan fokus terhadap Metric Recall untuk membuat Nilai False Negative tidak terlalu besar
+- False Negative adalah Nasabah yang Akan Gagal Bayar tetapi diprediksi oleh model Tidak Akan Gagal Bayar
 - Score Recall sudah memiliki nilai yang cukup baik 
 - Dengan melakukan Feature Selection Berdasarkan Feature Impostance dapat membantu memperbaiki Score Recall selama pemodelan
-- Setelah dilakukan Hyperparameters Tuning, selisih antara Recall Train dan Recall Test mengalami penurunan meskipun mengakibatkan Score Test menjadi lebih rendah dari yang sebelumnya
-- Disarankan untuk mengumpulkan ulang data - data pada Dataset sehingga Label menjadi Balance dan dapat membantu proses Pemodelan
+- Setelah dilakukan Hyperparameters Tuning, selisih antara Recall Train dan Recall Test mengalami penurunan meskipun mengakibatkan Score Test menurun
+- Disarankan untuk mengumpulkan ulang data - data pada Dataset sehingga Label menjadi lebih Balance dan dapat membantu proses Pemodelan
 
 ### Business Impact
 - Dapat menurunkan persentase Nasabah yang Gagal Bayar menjadi 2,85 %
