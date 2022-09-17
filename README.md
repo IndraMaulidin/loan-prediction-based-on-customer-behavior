@@ -6,10 +6,16 @@ Create Model to Predict who possible Defaulters are for the Consumer Loans Produ
 Model machine learning untuk memprediksi disetujui atau tidaknya pinjaman berdasarkan perilaku pelanggan
 
 ### Deskripsi
-Rakamin final project oleh group 6 Batch 23
+Rakamin Final Project oleh group 6 Batch 23
 
-Rakabank memberikan pinjaman kepada nasabahnya, dan telah terdapat 252000 nasabah yang telah melakukan pinjaman. Terdapat 12,3% nasabah tidak mampu membayar pinjaman.
-Model machine learning dibuat untuk memprediksi dan menentukan klasifikasi nasabah yang gagal bayar.
+### Background
+Bank memberikan pinjaman kepada nasabahnya, dan telah terdapat 252000 nasabah yang telah melakukan pinjaman. Terdapat 12,3% nasabah tidak mampu membayar pinjaman.
+
+### Objective & Methods
+- Goals : Menghindari pemberian pinjaman terhadap nasabah yang berpotensi gagal bayar.
+- Metode : Membuat model yang dapat memprediksi nasabah yang berpotensi gagal bayar.
+- Objektif Bisnis : - Mengurangi persentase nasabah yang gagal bayar menjadi 8%.
+                    - Mengurangi jumlah loan loss (pinjaman yang tidak dikembalikan).
 
 ### EDA
 - Terdapat 252000 baris dengan 13 kolom yang terdiri 7 data integer dan 6 data object
