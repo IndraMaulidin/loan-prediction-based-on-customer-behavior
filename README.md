@@ -1,9 +1,8 @@
-# loan-prediction-based-on-customer-behavior
-Create Model to Predict who possible Defaulters are for the Consumer Loans Product.
-# Dataset Source https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior?select=Training+Data.csv
+# Dataset Source 
+https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior?select=Training+Data.csv
 
 # Loan-Prediction-Based-on-Customer-Behavior
-
+Create Model to Predict who possible Defaulters are for the Consumer Loans Product.
 Model machine learning untuk memprediksi disetujui atau tidaknya pinjaman berdasarkan perilaku pelanggan
 
 ### Deskripsi
