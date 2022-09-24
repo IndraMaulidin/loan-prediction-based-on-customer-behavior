@@ -1,3 +1,11 @@
+# Rakamin Academy Final Project
+- Auviera Pascafiwi
+- Fahmy Rafian S
+- M Fu’ad Saifuddin
+- Indra Maulidin
+- Luthfan Zulfahmi
+- Wenvint
+
 # Dataset Source 
 https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior?select=Training+Data.csv
 
