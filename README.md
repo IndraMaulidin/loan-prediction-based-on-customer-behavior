@@ -10,10 +10,7 @@
 https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior?select=Training+Data.csv
 
 # Loan-Prediction-Based-on-Customer-Behavior
-Model machine learning untuk memprediksi disetujui atau tidaknya pinjaman berdasarkan perilaku pelanggan
-
-## Deskripsi
-Rakamin Final Project oleh group 6 Batch 23
+Membuat Model machine learning untuk memprediksi disetujui atau tidaknya pinjaman berdasarkan karakteristik nasabah.
 
 ## Background
 Bank memberikan pinjaman kepada nasabahnya, dan telah terdapat 252000 nasabah yang telah melakukan pinjaman. Terdapat 12,3% nasabah tidak mampu membayar pinjaman.
