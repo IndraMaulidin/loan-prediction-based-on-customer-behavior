@@ -40,6 +40,7 @@ Bank memberikan pinjaman kepada nasabahnya, dan telah terdapat 252000 nasabah ya
 - Handle class imbalance dengan SMOTE risk_flag
 
 ## Modeling
+- Untuk Data numerikal akan digunakan data awal tanpa discalling (normalization dan standardization)
 - Menggunakan Algoritma Random Forest Classifier
 - Pemodelan fokus terhadap Metric Recall untuk membuat Nilai False Negative tidak terlalu besar
 - False Negative adalah Nasabah yang Akan Gagal Bayar tetapi diprediksi oleh model Tidak Akan Gagal Bayar
